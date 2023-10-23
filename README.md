@@ -7,3 +7,6 @@
 ## Datos
 El dataset utilizado sería el proporcionado en el enlace de Kaggle:
 https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction?datasetId=1111894&sortBy=voteCount
+
+## Video Entrega 2
+https://youtu.be/znAp9e1xOwE?si=4NjHcVUgAvf-VcOY
