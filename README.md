@@ -10,3 +10,6 @@ https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction?datase
 
 ## Video Entrega 2
 https://youtu.be/znAp9e1xOwE?si=4NjHcVUgAvf-VcOY
+
+## Video Entrega Final
+https://youtu.be/S0rH4f9xfMQ?si=JRnqOqjlNHzzryBA
